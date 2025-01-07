@@ -8,6 +8,14 @@ html,body{
     width: 100%;
     /* font-family: Gilroy; */
 }
+@font-face {
+    font-family: work sans;
+
+    /* src: url(./Gilroy-FREE/Gilroy-ExtraBold.otf); */
+    /* src: url(./Gilroy-FREE/Gilroy-Light.otf) */
+    src:url(./Work_Sans/WorkSans-VariableFont_wght.ttf);
+    font-display: swap;
+}
 #main
 {
     height: 100%;
